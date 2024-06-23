@@ -1,0 +1,8 @@
+# opal_config.yaml
+common:
+  policy:
+    bundle_url: "http://localhost:7002/policy"
+  data:
+    source: "mysql://root:your_mysql_password@localhost/permit_app"
+client:
+  server_url: "http://localhost:7002"
