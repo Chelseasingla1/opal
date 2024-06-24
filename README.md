@@ -33,6 +33,10 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 
 [Watch the demo video](https://youtu.be/G-eLPkYZIzU)
 
+## Permit.io Permissions Explanation Video
+
+[Watch the demo video](https://youtu.be/_1oM474wecg)
+
 ### Screenshots 
 
 ![weather](https://github.com/Chelseasingla1/opal/assets/129886894/7bd1387d-f9e3-424c-8250-3bc11e8ce338)
