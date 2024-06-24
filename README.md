@@ -115,4 +115,4 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 
 ## 📹 Video Demo
 
-[Watch the video demo here](https://www.youtube.com/watch?v=/gOr141bVD9w?si=jRdl01UtFKHUiKkT)
+[![Video Demo](https://img.youtube.com/vi/cp04UAQaD-E/0.jpg)](https://youtu.be/cp04UAQaD-E)
