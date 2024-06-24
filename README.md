@@ -33,6 +33,13 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 
 [Watch the demo video](https://youtu.be/G-eLPkYZIzU)
 
+### Screenshots 
+
+![weather](https://github.com/Chelseasingla1/opal/assets/129886894/7bd1387d-f9e3-424c-8250-3bc11e8ce338)
+
+![image](https://github.com/Chelseasingla1/opal/assets/129886894/ffe5b0dd-b040-4d49-8f44-4e5bd4ec209d)
+
+
 ## Setup and Installation
 
 ### Prerequisites
