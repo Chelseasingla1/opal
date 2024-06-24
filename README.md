@@ -91,6 +91,11 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 2. 🔍 Use the form to search for weather information by city.
 3. 🔑 Based on the user role, access rights to specific features will be determined.
 
+### Role-Based Access Control (RBAC)
+
+- **Admin users**: Can view and manage all city weather data.
+- **Guest users**: Can only view weather data for specific cities.
+
 ## Contributing
 
 1. 🍴 Fork the repository.
