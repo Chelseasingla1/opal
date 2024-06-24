@@ -5,16 +5,6 @@
 🌤️ WeatherApp with Permit.io and OPAL Integration
 </h1>
 
-<h2 align="center">
-Open Policy Administration Layer
-</h2>
-
-<a href="https://github.com/permitio/opal/actions?query=workflow%3ATests" target="_blank">
-    <img src="https://github.com/permitio/opal/workflows/Tests/badge.svg" alt="Tests">
-</a>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26query%3Dhttps%253A%252F%252Ftwitter.com%252Fpermit_io%26widget%3DButton&ref_src=twsrc%5Etfw&region=follow_link&screen_name=permit_io&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/permit_io?label=Follow%20%40permit_io&style=social">
-</a>
-
 ## Overview
 
 This project is a weather web application built with Flask, SQLAlchemy, and PostgreSQL. It demonstrates the use of Permit.io and OPAL (Open Policy Administration Layer) for real-time data and configuration updates to authorization policies across applications. The web app allows users to view weather information for different cities, showcasing a simple policy model with role-based access control (RBAC).
