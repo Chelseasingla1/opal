@@ -12,7 +12,7 @@ migrate = Migrate(app, db)
 
 permit = Permit(
     pdp="http://localhost:7766",
-    token="permit_key_Mfhhl1IiHOVtTx4BZL4taAvOCuiQRiGzB2Wyb79HipHs1RHhl79rN7xNH7v4x2K7CHNZA5BgngEuLNcfZLXgA2",
+    token="",
 )
 
 class User(db.Model):
