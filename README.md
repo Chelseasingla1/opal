@@ -25,6 +25,14 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 - **OPAL**: Open Policy Administration Layer for policy and data updates.
 - **Docker**: Container
 
+## 📹 Video Demo
+
+[Watch the demo video](https://youtu.be/gOr141bVD9w)
+
+## Permit.io Permissions Video
+
+[Watch the demo video](https://youtu.be/G-eLPkYZIzU)
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -112,9 +120,3 @@ This project is a weather web application built with Flask, SQLAlchemy, and Post
 - 🍰 [Flask](https://flask.palletsprojects.com/) for the web framework.
 - 🛠️ [SQLAlchemy](https://www.sqlalchemy.org/) for the ORM.
 - 🐘 [PostgreSQL](https://www.postgresql.org/) for the database.
-
-## 📹 Video Demo
-
-
-[Watch the demo video](https://youtu.be/gOr141bVD9w)
-
